@@ -1,0 +1,11 @@
+{
+  "timestamp": "1609380667",
+  "notifications": [
+    {
+      "title": "This is a test notification",
+      "description": "This is a test description",
+      "url": "https://bit.ly/punchikatha",
+      "image": "https://bit.ly/punchikatha"
+    }
+  ]
+}
